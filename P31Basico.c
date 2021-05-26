@@ -21,4 +21,4 @@ int main()
     printf("\n\n Ahora el valor de c es %d",c);
 
     Return 0;
-}
+} ok
